@@ -21,6 +21,12 @@ Each tower represents a GitHub repository. Height = stars + contributors. Color 
 
 </div>
 
+<br />
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/ca35556f-2d8b-4049-b776-8a298e2d7fe1" />
+
+
+<br />
+
 ## ✨ Features
 
 | Feature | Description |
